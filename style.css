@@ -34,6 +34,13 @@ body::before {
 	backdrop-filter: blur(5px);
 	-webkit-backdrop-filter: blur(5px);
 }
+
+.logo {
+	font-family: Ink Free;
+	font-size: 2rem;
+	color: #fff;
+}
+
 form {
 	display: flex;
 	flex-direction: column;
